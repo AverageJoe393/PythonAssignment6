@@ -1,0 +1,48 @@
+Assignment 4
+
+Name _____________________________ Score _________
+
+Part 1:
+
+_____  5 driver executes properly
+
+_____  5 points __init__()
+
+_____  5 points get_stats()
+
+_____  5 points __str__()
+
+_____  5 points singles()
+
+_____  5 points batting_average()
+
+_____  5 points __lt__()
+
+_____  5 points print_player()
+
+_____  5 points heading1()
+
+_____  5 points heading2()
+
+Part 2:
+
+_____ 15 points read data function
+
+_____ 10 points display all stats function
+
+_____ 10 points display all averages function
+
+_____  5 points get key for home runs
+
+_____  5 points sort players list by home runs
+
+_____  5 points get key for at Bats
+
+_____  5 points sort players list by at bats
+
+_____ 15 points main function
+
+_____ 10 points documentation
+
+
+

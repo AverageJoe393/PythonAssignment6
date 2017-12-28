@@ -1,0 +1,40 @@
+
+Hank Aaron's stats: [162, 22, 3, 47, 495]
+Barry Bonds' stats: [149, 31, 2, 46, 403]
+Babe Ruth's stats: [172, 36, 9, 54, 457]
+
+Hank Aaron            1971     495      90      22       3      47    0.327    0.669
+Barry Bonds           2002     403      70      31       2      46    0.370    0.799
+Babe Ruth             1920     457      73      36       9      54    0.376    0.849
+
+
+Hank Aaron has 90 singles
+Barry Bonds has 70 singles
+Babe Ruth has 73 singles
+
+Hank Aaron has 0.32727 average
+Barry Bonds has 0.36973 average
+Babe Ruth has 0.37637 average
+
+Hank Aaron has 0.66869 slugging percentage
+Barry Bonds has 0.79901 slugging percentage
+Babe Ruth has 0.84902 slugging percentage
+
+Hank Aaron has a lower slugging percentage than Barry Bonds?  True
+Barry Bonds has a lower slugging percentage than Hank Aaron?  False
+Babe Ruth has a lower slugging percentage than Hank Aaron?  False
+
+Hank Aaron          0.669           1971
+Barry Bonds         0.799           2002
+Babe Ruth           0.849           1920
+
+
+-------------------------------------------------------------------------------------
+Player                Year      AB      S        D       T      HR     BA      SLG     
+-------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------
+   Player           Slugging %      Year
+---------------------------------------------

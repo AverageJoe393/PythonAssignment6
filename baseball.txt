@@ -1,0 +1,15 @@
+1971Hank Aaron:162:22:3:47:495
+2002Barry Bonds:149:31:2:46:403
+1974Rod Carew:218:30:5:3:599
+1912Ty Cobb:226:30:23:7:553
+1937Joe DiMaggio:215:35:15:46:621
+1956Mickey Mantle:188:22:5:52:533
+1961Roger Maris:159:16:4:61:590
+1963Willie Mays:187:32:7:38:596
+1978Wilbur Stargell:115:18:2:28:390
+1957Ted Williams:163:28:1:38:420
+1920Babe Ruth:172:36:9:54:457
+1960Bill Mazeroski:147:21:5:11:538
+1941Frank Gustine:125:24:7:1:463
+1975Thurman Munson:190:24:3:12:597
+1967Orlando Cepada:183:37:0:25:563
